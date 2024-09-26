@@ -1,11 +1,11 @@
 Model Information:
-* title:	Matilda
-* source:	https://sketchfab.com/3d-models/matilda-7ddedfb652bd4ea091bc3de27f98fc02
-* author:	nicolekeane (https://sketchfab.com/nicolekeane)
+* title:	Lunar Sprout t-pose Brawl Stars
+* source:	https://sketchfab.com/3d-models/lunar-sprout-t-pose-brawl-stars-baff796166d24b878d539e0d9c463a15
+* author:	shertiku (https://sketchfab.com/shertiku)
 
 Model License:
-* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
-* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Matilda" (https://sketchfab.com/3d-models/matilda-7ddedfb652bd4ea091bc3de27f98fc02) by nicolekeane (https://sketchfab.com/nicolekeane) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is based on "Lunar Sprout t-pose Brawl Stars" (https://sketchfab.com/3d-models/lunar-sprout-t-pose-brawl-stars-baff796166d24b878d539e0d9c463a15) by shertiku (https://sketchfab.com/shertiku) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
